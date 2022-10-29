@@ -1,0 +1,19 @@
+body {
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
+
+h1{
+    color:goldenrod
+}
+
+#message-el{
+    font-style: italic;
+}
+
+button{
+    background-color: coral;
+    margin-bottom: 4px;
+}
